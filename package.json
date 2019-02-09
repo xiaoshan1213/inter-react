@@ -1,7 +1,6 @@
 {
   "name": "inter-react",
   "version": "0.1.0",
-  "homepage": "http://xiaoshan1213.github.io/inter-react",
   "private": true,
   "dependencies": {
     "react": "^16.8.1",
